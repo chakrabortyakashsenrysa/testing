@@ -1,2 +1,0 @@
- data.getname: working
-data.getage: age working
